@@ -1,5 +1,3 @@
-# app-dev
-My first repository
 ## MY FAVORITE SERIES/MOVIE
 - Title: Wednesday
 - Description: It is a supernatural comedy series based upon the character Wednesday Addams from The Addams Family.
